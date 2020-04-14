@@ -1,2 +1,0 @@
-# ReactAngela
-Created with CodeSandbox
